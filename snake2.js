@@ -1,0 +1,1 @@
+javascript:(function() {var s=document.createElement('script');s.src='https://snake.f.hariombalhara.in/snake.iife.js';s.type='text/javascript';document.getElementsByTagName('head')[0].appendChild(s); })();
